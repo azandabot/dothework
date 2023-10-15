@@ -1,8 +1,8 @@
 # do the work or DO THE WORK!
 
 > This is not just an idea its a mindset-shift; "do the work" - how sure are you that you're not doing grunt work and calling it work? or DO THE WORK! - do it right so you don't have to repeat yourself
-
-- The below will serve as a guide on how the following implementations can be done the demo application showing these applications will be a TODOs List App
+>
+>  The below will serve as a guide on how the following implementations can be done the demo application showing these applications will be a TODOs List App
 
 # TABLE OF CONTENTS
 1. WHY (#why)
