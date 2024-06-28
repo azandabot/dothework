@@ -16,7 +16,7 @@ The traditional way of development requires you to follow a step-by-step guide, 
 
 The following illustration provides more context:
 
-![shot1.png](shot1.png)
+![shot1.png](shot1.PNG)
 
 ## 2. HACK: Make things work for you
 
